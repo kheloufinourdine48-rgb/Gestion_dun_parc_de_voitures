@@ -40,3 +40,7 @@ v1 = Voiture("A123", "ferrari", "rouge")
 v2 = Voiture("B456", "mazerati", "gris")
 v3 = Voiture("C789", "rolls roys", "noir")
 v4 = Voiture("D111", "buggati", "orange")
+
+parc.entrerVoiture(v1)
+parc.entrerVoiture(v2)
+parc.entrerVoiture(v3)
